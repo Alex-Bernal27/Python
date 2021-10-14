@@ -6,16 +6,16 @@
 - [Codigo](https://github.com/Alex-Bernal27/Python/blob/cf207f97cc5d96fd0ba7858aba15c60cd6539d7f/Tarea_1_DNN_gasolina.ipynb)
 
 > Convolutional Neural Network (Fashion Mnist)
-- [Codigo/Reporte](https://github.com/Alex-Bernal27/Python/blob/cf207f97cc5d96fd0ba7858aba15c60cd6539d7f/Tarea_2_CNN_fashion_mnist.ipynb)
+- [Codigo](https://github.com/Alex-Bernal27/Python/blob/cf207f97cc5d96fd0ba7858aba15c60cd6539d7f/Tarea_2_CNN_fashion_mnist.ipynb)
 
 > Recurrent Neural Network (Text Classification)
-- [Codigo/Reporte](https://github.com/Alex-Bernal27/Python/blob/cf207f97cc5d96fd0ba7858aba15c60cd6539d7f/Tarea_3_RNN_text_classification.ipynb)
+- [Codigo](https://github.com/Alex-Bernal27/Python/blob/cf207f97cc5d96fd0ba7858aba15c60cd6539d7f/Tarea_3_RNN_text_classification.ipynb)
 
 > Autoencoders (Image Denoising)
-- [Codigo/Reporte](https://github.com/Alex-Bernal27/Python/blob/cf207f97cc5d96fd0ba7858aba15c60cd6539d7f/Tarea_4_Autoencoders_Image_denoising.ipynb)
+- [Codigo](https://github.com/Alex-Bernal27/Python/blob/cf207f97cc5d96fd0ba7858aba15c60cd6539d7f/Tarea_4_Autoencoders_Image_denoising.ipynb)
 
 > Mapa Auto-Organizados (Distintas aplicaciones)
-- [Codigo/Reporte](https://github.com/Alex-Bernal27/Python/blob/cf207f97cc5d96fd0ba7858aba15c60cd6539d7f/Tarea_6_Mapas_auto_organizados.ipynb)
+- [Codigo](https://github.com/Alex-Bernal27/Python/blob/cf207f97cc5d96fd0ba7858aba15c60cd6539d7f/Tarea_6_Mapas_auto_organizados.ipynb)
 
 # Examenes
 
@@ -32,4 +32,4 @@
 # Proyecto Final
 
 > Reconocimiento de Emociones CNN
-- [Codigo/Reporte](https://github.com/Alex-Bernal27/Python/blob/3e5df839eb7de0f5368bd60cd113837692519e71/PIA_Reconocimiento_de_Emociones.ipynb)
+- [Codigo](https://github.com/Alex-Bernal27/Python/blob/3e5df839eb7de0f5368bd60cd113837692519e71/PIA_Reconocimiento_de_Emociones.ipynb)
